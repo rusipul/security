@@ -1,0 +1,22 @@
+{
+  "design_keywords": ["DB", "SCH", "REV", "PCB", "BOM", "GERBER"],
+  "design_extensions": [".tar", ".gz", ".tg", ".brd", ".sch"],
+  "zip_size_threshold_mb": 10,
+  "ai_domains": [
+    "chat.openai.com",
+    "chatgpt.com",
+    "gemini.google.com",
+    "claude.ai",
+    "copilot.microsoft.com",
+    "perplexity.ai",
+    "notebooklm.google.com"
+  ],
+  "external_mail_domains": [
+    "mail.naver.com",
+    "mail.google.com",
+    "mail.daum.net",
+    "mail.yahoo.com",
+    "mail.kakao.com"
+  ],
+  "browser_processes": ["chrome.exe", "msedge.exe", "firefox.exe", "iexplore.exe"]
+}
